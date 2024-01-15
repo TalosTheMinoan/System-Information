@@ -24,6 +24,12 @@ This Python script gathers and displays essential system information, providing 
   - Charging status
   - Time Remaining (if plugged in)
 
+
+##Requirements
+
+-Python
+
+
 ## How to Use
 
 
