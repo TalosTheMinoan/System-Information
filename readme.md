@@ -45,10 +45,10 @@ This Python script gathers and displays essential system information, providing 
 
 ## Additional Features (Removed due to problem coming soon!)
 
-- **Recent System Events:**
+- **Recent System Events:**(STILL REMOVED TO 0.2)
   - Log and display recent system events or errors from system logs.
 
-- **User Information:**
+- **User Information:**(ADDED BACK TO NEW VERSION 0.2)
   - Retrieve information about logged-in users, including their usernames and login times.
 
 ## License
