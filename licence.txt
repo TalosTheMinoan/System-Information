@@ -1,0 +1,23 @@
+System_information Software License Agreement
+
+This software is proprietary and confidential.
+
+© 2024 Talos. All Rights Reserved.
+
+Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software and associated documentation files (the "Software"), to use the Software only in the form as provided by [Your Name], and subject to the following conditions:
+
+1. Redistributions of the Software in any form are not permitted.
+
+2. Modification of the Software or any part thereof is strictly prohibited.
+
+3. Any attempt to reverse engineer, decompile, or disassemble the Software is expressly prohibited.
+
+4. Any redistribution, reproduction, or use of the Software, in whole or in part, must be approved in writing by Talos.
+
+5. This Software is provided on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTIES OR CONDITIONS OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT, EXCEPT TO THE EXTENT THAT THESE DISCLAIMERS ARE HELD TO BE LEGALLY INVALID.
+
+6. Talos reserves the right to change this license at any time with or without notice.
+
+By using the Software, you agree to be bound by the terms of this license.
+
+If you do not agree with the terms of this license, please uninstall the Software immediately.
