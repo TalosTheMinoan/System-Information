@@ -53,7 +53,7 @@ This Python script gathers and displays essential system information, providing 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/TalosTheMinoan/System-Information/blob/main/licence.txt).
 
 ## Version
 
