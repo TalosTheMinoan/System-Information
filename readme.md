@@ -56,6 +56,7 @@ This Python script gathers and displays essential system information, providing 
 This project is licensed under the [MIT License](LICENSE).
 
 ##Version
+
 -0.1
 
 20/1/2024
