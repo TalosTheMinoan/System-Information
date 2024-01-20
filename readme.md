@@ -55,6 +55,13 @@ This Python script gathers and displays essential system information, providing 
 
 This project is licensed under the [MIT License](LICENSE).
 
+##Version
+-0.1
+
+20/1/2024
+new version made 0.2 
+https://github.com/TalosTheMinoan/System-Information/releases/tag/system_info
+
 ## Acknowledgments
 
 - [Python Documentation](https://docs.python.org/3/) - Official Python documentation.
