@@ -1,3 +1,10 @@
+
+
+## Important Notice
+
+🚨 Important Notice: Version 0.1 of the program will be discontinued and shut down from 21/1/2024. Please update to the latest version for an improved experience.
+
+
 # System Information Tool
 
 This Python script gathers and displays essential system information, providing insights into your system's hardware and software components.
