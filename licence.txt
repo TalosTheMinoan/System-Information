@@ -4,7 +4,7 @@ This software is proprietary and confidential.
 
 © 2024 Talos. All Rights Reserved.
 
-Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software and associated documentation files (the "Software"), to use the Software only in the form as provided by [Your Name], and subject to the following conditions:
+Permission is hereby granted, free of charge, to any person or entity obtaining a copy of this software and associated documentation files (the "Software"), to use the Software only in the form as provided by Talos, and subject to the following conditions:
 
 1. Redistributions of the Software in any form are not permitted.
 
