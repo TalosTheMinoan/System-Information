@@ -60,8 +60,12 @@ This project is licensed under the [MIT License](https://github.com/TalosTheMino
 -0.1
 
 20/1/2024
-new version made 0.2 
+new version released 0.2 
 https://github.com/TalosTheMinoan/System-Information/releases/tag/system_info
+
+21/1/2024
+new version released 0.3
+https://github.com/TalosTheMinoan/System-Information/releases/tag/system_info0.3
 
 ## Acknowledgments
 
