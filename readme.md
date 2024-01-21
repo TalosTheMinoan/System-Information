@@ -75,7 +75,7 @@ new version released 0.2
 new version released 0.3
 -https://github.com/TalosTheMinoan/System-Information/releases/tag/system_info0.3
 
-*22/1/2024*
+*21/1/2024*
 new version released 0.4
 -https://github.com/TalosTheMinoan/System-Information/releases/tag/system_info0.4
 
