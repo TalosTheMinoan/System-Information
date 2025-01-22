@@ -6,7 +6,7 @@
 
 ## Our website
 
--https://plum-bridgette-9.tiiny.site
+-https://systemvista.tiiny.site
 
 # System Information Tool
 
