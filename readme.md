@@ -2,7 +2,7 @@
 
 ## Important Notice
 
-🚨 Important Notice: The SystemVista program has been discontinued. Thank you for your support.
+🚨 Important Notice: The SystemVista program has been discontinued. Maybe one day SystemVista will return, better than ever. Thank you for your support.
 
 ## Our website
 
