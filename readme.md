@@ -2,7 +2,7 @@
 
 ## Important Notice
 
-🚨 Important Notice: Version 0.1 of the program will be discontinued and shut down from 23/1/2024. Please update to the latest version for an improved experience.
+🚨 Important Notice: The SystemVista program has been discontinued. Thank you for your support.
 
 ## Our website
 
